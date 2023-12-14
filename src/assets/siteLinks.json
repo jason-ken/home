@@ -6,18 +6,18 @@
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "TVBox接口",
+    "link": "https://tvbox.cainisi.cf/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "TVBox解密",
+    "link": "https://tvbox.cainisi.cf/mao.html"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "菜妮丝解析",
+    "link": "https://jx.cainisi.cf/"
   },
   {
     "icon": "Book",
@@ -28,10 +28,10 @@
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
   }
+#  {
+#    "icon": "LaptopCode",
+#    "name": "站点监测",
+#    "link": "https://status.imsyy.top/"
+#  }
 ]
