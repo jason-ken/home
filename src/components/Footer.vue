@@ -53,7 +53,7 @@ const siteUrl = computed(() => {
   const url = import.meta.env.VITE_SITE_URL;
   if (!url) return "https://www.imsyy.top";
   // 判断协议前缀
-  if (!url.startsWith("http://") && !url.startsWith("https://")) {
+  if (!url.startsWith("http://home.") && !url.startsWith("https://home.")) {
     return "//" + url;
   }
   return url;
