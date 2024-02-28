@@ -1,10 +1,10 @@
 [
- // {
- //  "name": "Github",
- //   "icon": "/images/icon/github.png",
- //   "tip": "去 Github 看看",
- //   "url": "https://github.com/jason-ken"
- // },
+ # {
+ #  "name": "Github",
+ #   "icon": "/images/icon/github.png",
+ #   "tip": "去 Github 看看",
+ #   "url": "https://github.com/jason-ken"
+ # },
   {
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
