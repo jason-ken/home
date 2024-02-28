@@ -7,20 +7,20 @@
   {
     "icon": "Cloud",
     "name": "TVBox接口",
-  //  "link": "https://tvbox.cainisi.cf/"
+  #  "link": "https://tvbox.cainisi.cf/"
     "link": "https://www.lige.fit/tvbox"
   },
   {
     "icon": "CompactDisc",
     "name": "TVBox解密",
-   // "link": "https://tvbox.cainisi.cf/mao.html"
+   # "link": "https://tvbox.cainisi.cf/mao.html"
     "link": "https://www.lige.fit/ua"
   },
   {
     "icon": "Compass",
-   // "name": "菜妮丝解析",
+   # "name": "菜妮丝解析",
     "name": "TVBox加密",
-   // "link": "https://jx.cainisi.cf/"
+   # "link": "https://jx.cainisi.cf/"
     "link": "https://www.lige.fit/aes"
   },
   {
